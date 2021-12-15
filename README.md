@@ -1,4 +1,4 @@
-# Bipolar Disorder and Mood Stabilisers:
+# Bipolar Disorder and Mood Stabilisers
 
 ### An NLP exploration of the two main subtypes of bipolar disorder with regards to Reddit posts on mood stabilisers
 
